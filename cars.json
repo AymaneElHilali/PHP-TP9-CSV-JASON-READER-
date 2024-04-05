@@ -1,0 +1,602 @@
+[
+  {
+    "make": "Audi",
+    "model": "S8",
+    "model_year": "2001",
+    "vin": "ADZ2TL473M8C30193"
+  },
+  {
+    "make": "Nissan",
+    "model": "Frontier King Cab",
+    "model_year": "2003",
+    "vin": "HXKBZNSWG89P25398"
+  },
+  {
+    "make": "Mercedes-Benz",
+    "model": "500 SEL",
+    "model_year": "1993",
+    "vin": "KZNKNNLCJLLR37276"
+  },
+  {
+    "make": "Ford",
+    "model": "F150 Super Cab",
+    "model_year": "2001",
+    "vin": "3J7E9A7Y9LY246964"
+  },
+  {
+    "make": "INFINITI",
+    "model": "JX",
+    "model_year": "2013",
+    "vin": "97SCUSFYDHD291262"
+  },
+  {
+    "make": "Mercedes-Benz",
+    "model": "SLK-Class",
+    "model_year": "2000",
+    "vin": "TX83P7AEP5NS08123"
+  },
+  {
+    "make": "Ford",
+    "model": "E250 Super Duty Cargo",
+    "model_year": "2003",
+    "vin": "25F0P59SXTL450442"
+  },
+  {
+    "make": "Jaguar",
+    "model": "XF",
+    "model_year": "2012",
+    "vin": "WRX93RY0ZV9Y42324"
+  },
+  {
+    "make": "Nissan",
+    "model": "Frontier King Cab",
+    "model_year": "2015",
+    "vin": "5BRHNM02PTD561663"
+  },
+  {
+    "make": "Nissan",
+    "model": "Versa",
+    "model_year": "2012",
+    "vin": "HCT1UTPGD26C51989"
+  },
+  {
+    "make": "GMC",
+    "model": "Sierra 1500 Extended Cab",
+    "model_year": "1999",
+    "vin": "62E4U8YYZZ5U65971"
+  },
+  {
+    "make": "Dodge",
+    "model": "Caravan Cargo",
+    "model_year": "2007",
+    "vin": "ZS0W39C6GN3527542"
+  },
+  {
+    "make": "Lincoln",
+    "model": "Navigator",
+    "model_year": "2014",
+    "vin": "KY558X8N4Y3865780"
+  },
+  {
+    "make": "Oldsmobile",
+    "model": "LSS",
+    "model_year": "1999",
+    "vin": "CEKWFCTE7ZP488326"
+  },
+  {
+    "make": "MINI",
+    "model": "Cooper",
+    "model_year": "2004",
+    "vin": "NFZ1EYBY42EZ54481"
+  },
+  {
+    "make": "BMW",
+    "model": "X3",
+    "model_year": "2008",
+    "vin": "29056Z64V56574429"
+  },
+  {
+    "make": "Acura",
+    "model": "RSX",
+    "model_year": "2004",
+    "vin": "WPVATB0ZYT4440356"
+  },
+  {
+    "make": "Nissan",
+    "model": "NV200 Taxi",
+    "model_year": "2014",
+    "vin": "NLB8DLGDB69683103"
+  },
+  {
+    "make": "Porsche",
+    "model": "911",
+    "model_year": "2012",
+    "vin": "XR5MH3CTRCJJ77049"
+  },
+  {
+    "make": "Suzuki",
+    "model": "XL-7",
+    "model_year": "2001",
+    "vin": "HKA72CMEDUTT12052"
+  },
+  {
+    "make": "Audi",
+    "model": "TT",
+    "model_year": "2012",
+    "vin": "RX4GRSZ883R241004"
+  },
+  {
+    "make": "Toyota",
+    "model": "Yaris",
+    "model_year": "2010",
+    "vin": "F2Y2E026V8B868150"
+  },
+  {
+    "make": "Subaru",
+    "model": "Baja",
+    "model_year": "2004",
+    "vin": "RW7VDWZ0YF9F49871"
+  },
+  {
+    "make": "Nissan",
+    "model": "Pathfinder",
+    "model_year": "1999",
+    "vin": "NMJ2TV1XVX3F32837"
+  },
+  {
+    "make": "Hyundai",
+    "model": "Excel",
+    "model_year": "1994",
+    "vin": "R21YHF9UEGDZ85497"
+  },
+  {
+    "make": "Ford",
+    "model": "Probe",
+    "model_year": "1997",
+    "vin": "Y5DZSLWZAL0982445"
+  },
+  {
+    "make": "BMW",
+    "model": "Z3",
+    "model_year": "1999",
+    "vin": "M1USBMFK3EUH73902"
+  },
+  {
+    "make": "MAZDA",
+    "model": "MX-5 Miata",
+    "model_year": "2016",
+    "vin": "3R5H64NZRAYX65019"
+  },
+  {
+    "make": "Kia",
+    "model": "Sportage",
+    "model_year": "2014",
+    "vin": "23G664K7Y0NJ81940"
+  },
+  {
+    "make": "Cadillac",
+    "model": "CTS",
+    "model_year": "2005",
+    "vin": "JAP9UX1C15B257616"
+  },
+  {
+    "make": "Suzuki",
+    "model": "Samurai",
+    "model_year": "1995",
+    "vin": "60WAC35FR3FN22732"
+  },
+  {
+    "make": "Toyota",
+    "model": "Tacoma Double Cab",
+    "model_year": "2003",
+    "vin": "TMZZFFEHW8R456667"
+  },
+  {
+    "make": "Subaru",
+    "model": "Outback",
+    "model_year": "2007",
+    "vin": "AD67T08YJPZ304790"
+  },
+  {
+    "make": "Audi",
+    "model": "S7",
+    "model_year": "2017",
+    "vin": "422VEMBS3V5L36409"
+  },
+  {
+    "make": "Audi",
+    "model": "S8",
+    "model_year": "2016",
+    "vin": "SNTPES22Z6UB34871"
+  },
+  {
+    "make": "Chevrolet",
+    "model": "S10 Extended Cab",
+    "model_year": "1996",
+    "vin": "WYAB96ZRF5MJ99414"
+  },
+  {
+    "make": "BMW",
+    "model": "M3",
+    "model_year": "2001",
+    "vin": "RP78JY97K9AC57331"
+  },
+  {
+    "make": "Toyota",
+    "model": "Prius c",
+    "model_year": "2019",
+    "vin": "7YLPKEB56CNA13363"
+  },
+  {
+    "make": "Mitsubishi",
+    "model": "Outlander",
+    "model_year": "2015",
+    "vin": "ZMLSPJHJS4VZ77435"
+  },
+  {
+    "make": "Ram",
+    "model": "1500 Regular Cab",
+    "model_year": "2017",
+    "vin": "JZM9F2736PBB96130"
+  },
+  {
+    "make": "Cadillac",
+    "model": "CT6",
+    "model_year": "2018",
+    "vin": "5RC03HBC3TMT72016"
+  },
+  {
+    "make": "GMC",
+    "model": "Sierra 2500 HD Crew Cab",
+    "model_year": "2006",
+    "vin": "KWJYMT6F90FR66933"
+  },
+  {
+    "make": "Dodge",
+    "model": "Ram 3500 Quad Cab",
+    "model_year": "2006",
+    "vin": "KCBJ50A887Y609216"
+  },
+  {
+    "make": "Maserati",
+    "model": "Levante",
+    "model_year": "2017",
+    "vin": "R79G4SZL5XW106052"
+  },
+  {
+    "make": "Toyota",
+    "model": "T100 Xtracab",
+    "model_year": "1998",
+    "vin": "0903A8V7MV0A59111"
+  },
+  {
+    "make": "Toyota",
+    "model": "Tacoma Access Cab",
+    "model_year": "2010",
+    "vin": "TJ6UFY7JV13715345"
+  },
+  {
+    "make": "Ford",
+    "model": "Transit Connect Passenger",
+    "model_year": "2018",
+    "vin": "9UP9VWNSJN0B52926"
+  },
+  {
+    "make": "Nissan",
+    "model": "Altima",
+    "model_year": "2013",
+    "vin": "6ZLJZN8E4JS409968"
+  },
+  {
+    "make": "Ford",
+    "model": "Econoline E350 Super Duty Cargo",
+    "model_year": "2000",
+    "vin": "S8MNV4AT68ER40595"
+  },
+  {
+    "make": "Dodge",
+    "model": "Grand Caravan Passenger",
+    "model_year": "2014",
+    "vin": "X773YCKTS35K36244"
+  },
+  {
+    "make": "Porsche",
+    "model": "Boxster",
+    "model_year": "2012",
+    "vin": "Z5AGB1EFJ2RF51174"
+  },
+  {
+    "make": "BMW",
+    "model": "i3",
+    "model_year": "2017",
+    "vin": "AE7P98V1D7AB55071"
+  },
+  {
+    "make": "Hyundai",
+    "model": "Accent",
+    "model_year": "2009",
+    "vin": "FJTB56BGBC9A78509"
+  },
+  {
+    "make": "Chevrolet",
+    "model": "Astro Passenger",
+    "model_year": "1993",
+    "vin": "KBJ2UDR6E4U182720"
+  },
+  {
+    "make": "Oldsmobile",
+    "model": "LSS",
+    "model_year": "1997",
+    "vin": "0G0GV492P38B97098"
+  },
+  {
+    "make": "Toyota",
+    "model": "Tacoma Access Cab",
+    "model_year": "2005",
+    "vin": "MVYGPLYK59B606473"
+  },
+  {
+    "make": "Pontiac",
+    "model": "Firebird",
+    "model_year": "1998",
+    "vin": "BB6NHXVWEDVH63405"
+  },
+  {
+    "make": "Chevrolet",
+    "model": "Colorado Crew Cab",
+    "model_year": "2004",
+    "vin": "PH63AUMM1KGX55078"
+  },
+  {
+    "make": "Chevrolet",
+    "model": "Silverado 2500 HD Regular Cab",
+    "model_year": "2002",
+    "vin": "DZ5KE9YFNPZU99881"
+  },
+  {
+    "make": "Dodge",
+    "model": "Dakota Club Cab",
+    "model_year": "2003",
+    "vin": "MV08728U3P0S37058"
+  },
+  {
+    "make": "Nissan",
+    "model": "Quest",
+    "model_year": "2012",
+    "vin": "GWFD4TFEKULC71905"
+  },
+  {
+    "make": "Lexus",
+    "model": "GS",
+    "model_year": "1999",
+    "vin": "U8SMR3L4REFX71618"
+  },
+  {
+    "make": "Maserati",
+    "model": "Ghibli",
+    "model_year": "2019",
+    "vin": "HJBNX738RRRH81563"
+  },
+  {
+    "make": "Subaru",
+    "model": "Outback",
+    "model_year": "2013",
+    "vin": "DVCNZ97GVEL616943"
+  },
+  {
+    "make": "Lotus",
+    "model": "Evora",
+    "model_year": "2011",
+    "vin": "2SGSKSWWNWPB45326"
+  },
+  {
+    "make": "Volkswagen",
+    "model": "Passat",
+    "model_year": "2019",
+    "vin": "Y116337405NF64919"
+  },
+  {
+    "make": "Chevrolet",
+    "model": "Monte Carlo",
+    "model_year": "2004",
+    "vin": "CJ81WHCA0EG026978"
+  },
+  {
+    "make": "Lincoln",
+    "model": "MKC",
+    "model_year": "2017",
+    "vin": "GWB6KCSZK8DA06552"
+  },
+  {
+    "make": "BMW",
+    "model": "3 Series",
+    "model_year": "2000",
+    "vin": "KG4ZD22GBL3L27515"
+  },
+  {
+    "make": "Toyota",
+    "model": "Tundra Regular Cab",
+    "model_year": "2001",
+    "vin": "N0YGVXE80UFG64207"
+  },
+  {
+    "make": "Chevrolet",
+    "model": "Silverado 2500 Regular Cab",
+    "model_year": "2001",
+    "vin": "G11ERAA6VN3A67177"
+  },
+  {
+    "make": "Chevrolet",
+    "model": "Spark",
+    "model_year": "2017",
+    "vin": "FGZ23ZTL8UEM92917"
+  },
+  {
+    "make": "Land Rover",
+    "model": "Range Rover",
+    "model_year": "2005",
+    "vin": "BAPVLLFA8PVW87392"
+  },
+  {
+    "make": "Lexus",
+    "model": "SC",
+    "model_year": "1993",
+    "vin": "STGJG7YP0LGA64428"
+  },
+  {
+    "make": "Chevrolet",
+    "model": "Suburban 2500",
+    "model_year": "2011",
+    "vin": "KEHEBTS9NPCN23735"
+  },
+  {
+    "make": "Chevrolet",
+    "model": "Avalanche",
+    "model_year": "2012",
+    "vin": "BGE0TV22LWEN82464"
+  },
+  {
+    "make": "INFINITI",
+    "model": "EX",
+    "model_year": "2010",
+    "vin": "GZY4UC7MWAUC40956"
+  },
+  {
+    "make": "Subaru",
+    "model": "Forester",
+    "model_year": "2016",
+    "vin": "2ZYFZNY3T5LG40231"
+  },
+  {
+    "make": "Dodge",
+    "model": "Ram 3500 Regular Cab",
+    "model_year": "1995",
+    "vin": "XA0252X7LNHV68259"
+  },
+  {
+    "make": "Toyota",
+    "model": "Tundra Regular Cab",
+    "model_year": "2013",
+    "vin": "Y2DVVM4N64AC16777"
+  },
+  {
+    "make": "Honda",
+    "model": "CR-V",
+    "model_year": "2013",
+    "vin": "7HCUEK64AJLG30267"
+  },
+  {
+    "make": "Ford",
+    "model": "Focus",
+    "model_year": "2003",
+    "vin": "TAHYK5FC48FW46706"
+  },
+  {
+    "make": "Lexus",
+    "model": "SC",
+    "model_year": "2003",
+    "vin": "4940FA4N0Z5535768"
+  },
+  {
+    "make": "Chevrolet",
+    "model": "Venture Cargo",
+    "model_year": "2002",
+    "vin": "R09NVBLGSVME67092"
+  },
+  {
+    "make": "Mercedes-Benz",
+    "model": "SLK-Class",
+    "model_year": "2005",
+    "vin": "DD2UJ9HCWA7H51227"
+  },
+  {
+    "make": "Porsche",
+    "model": "Panamera",
+    "model_year": "2010",
+    "vin": "S5XTLELZ392934346"
+  },
+  {
+    "make": "Nissan",
+    "model": "Titan Crew Cab",
+    "model_year": "2004",
+    "vin": "DYRXVZYKVHAD39677"
+  },
+  {
+    "make": "Ford",
+    "model": "F250 Super Duty Regular Cab",
+    "model_year": "2003",
+    "vin": "EZX9U64CYG4Y64399"
+  },
+  {
+    "make": "Lexus",
+    "model": "SC",
+    "model_year": "2009",
+    "vin": "NLKBFJL1GBAW08891"
+  },
+  {
+    "make": "BMW",
+    "model": "M3",
+    "model_year": "2006",
+    "vin": "G7U07J3EYR2179216"
+  },
+  {
+    "make": "Mercury",
+    "model": "Grand Marquis",
+    "model_year": "2011",
+    "vin": "SRKZ5NKLMXXF58792"
+  },
+  {
+    "make": "Hyundai",
+    "model": "Santa Fe Sport",
+    "model_year": "2017",
+    "vin": "Y5VUTPJ6HYY618133"
+  },
+  {
+    "make": "GMC",
+    "model": "1500 Regular Cab",
+    "model_year": "1995",
+    "vin": "YL553CNRW6G317549"
+  },
+  {
+    "make": "Hyundai",
+    "model": "Tucson",
+    "model_year": "2017",
+    "vin": "V90P7AGZC7C176165"
+  },
+  {
+    "make": "GMC",
+    "model": "Suburban 2500",
+    "model_year": "1995",
+    "vin": "JLZFFAHRD0ZA27258"
+  },
+  {
+    "make": "Lincoln",
+    "model": "Town Car",
+    "model_year": "1993",
+    "vin": "TMD0KPVPUWWD02433"
+  },
+  {
+    "make": "MAZDA",
+    "model": "RX-8",
+    "model_year": "2005",
+    "vin": "RBZT3LJVKZ1188885"
+  },
+  {
+    "make": "Dodge",
+    "model": "Ram Wagon 1500",
+    "model_year": "1998",
+    "vin": "GSBGP4X86K0628576"
+  },
+  {
+    "make": "Nissan",
+    "model": "King Cab",
+    "model_year": "1994",
+    "vin": "EJ6TZ37EVZ7V48721"
+  },
+  {
+    "make": "Maserati",
+    "model": "GranTurismo",
+    "model_year": "2008",
+    "vin": "FJYM22A9RZJE42477"
+  }
+]

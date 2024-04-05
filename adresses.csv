@@ -1,0 +1,101 @@
+city,latitude,longitude,street,timezone,zip
+Gainesville,34.346102,-83.901000,62 Court Street,Eastern Standard Time,30506
+Topeka,39.042939,-95.769657,862 Pleasant Street,Central Standard Time,66638
+Gatesville,31.390196,-97.799309,830 Main Street West,Central Standard Time,76598
+Turnerville,34.676584,-83.435780,94207 9th Street,Eastern Standard Time,30580
+Maysville,39.911250,-94.352310,989 5th Street,Central Standard Time,64469
+Memphis,35.201738,-89.971538,64 Market Street,Central Standard Time,38137
+Queen City,40.410297,-92.557280,6918 Summit Avenue,Central Standard Time,63561
+Duvall,47.741268,-121.978279,10069 1st Avenue,Pacific Standard Time,98319
+Durango,37.295888,-107.849450,5220 2nd Street East,Mountain Standard Time,81301
+Chicago,41.991381,-87.703780,478 Main Street South,Central Standard Time,60659
+Endicott,40.061702,-97.076330,3272 Chestnut Street,Central Standard Time,68350
+Hackleburg,34.262751,-87.834410,6015 Surrey Lane,Central Standard Time,35564
+Buffalo,42.896407,-78.885150,696 Woodland Drive,Eastern Standard Time,14201
+Landrum,35.156170,-82.220450,2215 College Street,Eastern Standard Time,29356
+Truxton,38.995145,-91.233600,1819 Lafayette Avenue,Central Standard Time,63381
+Owanka,44.110334,-102.589760,49765 1st Street,Mountain Standard Time,57767
+Cortland,41.333312,-80.726400,82508 Park Place,Eastern Standard Time,44410
+Blythe,33.297318,-82.215030,985 Elizabeth Street,Eastern Standard Time,30805
+Fort Lauderdale,26.148613,-80.224460,4 Locust Street,Eastern Standard Time,33313
+Lexington,38.028269,-84.471505,11 Hamilton Street,Eastern Standard Time,40583
+Hagerstown,39.520696,-77.916196,152 2nd Street,Eastern Standard Time,21748
+Point Lay,69.741023,-163.008610,58532 Oak Street,Alaska Standard Time,99759
+Grahamsville,41.853040,-74.529150,74 Berkshire Drive,Eastern Standard Time,12740
+Belfast,42.319654,-78.133840,53709 Cambridge Drive,Eastern Standard Time,14711
+Stockton,37.954823,-121.307350,43 Surrey Lane,Pacific Standard Time,95203
+Beechmont,37.172261,-87.036770,621 4th Street,Central Standard Time,42323
+Shrewsbury,42.364807,-71.896868,44 Maple Street,Eastern Standard Time,01546
+Moko,36.374704,-91.804608,884 Church Road,Central Standard Time,72557
+Monahans,31.568459,-102.896580,32 Meadow Lane,Central Standard Time,79756
+Sedona,34.907188,-111.728572,84 7th Street,Mountain Standard Time,86339
+Hodge,32.272141,-92.724890,27079 Surrey Lane,Central Standard Time,71247
+Axtell,39.050838,-111.847750,101 Durham Road,Mountain Standard Time,84621
+Southwick,42.052830,-72.769660,255 College Street,Eastern Standard Time,01077
+Pilot Mound,42.162453,-94.017280,2781 3rd Street West,Central Standard Time,50223
+Toledo,41.665849,-83.552180,912 Water Street,Eastern Standard Time,43620
+Catlin,40.059068,-87.703760,8493 Jefferson Street,Central Standard Time,61817
+Lincoln,40.740529,-96.761780,868 Williams Street,Central Standard Time,68523
+Mannsville,43.714545,-76.104650,773 4th Avenue,Eastern Standard Time,13661
+Harmony,40.821535,-80.130330,785 Holly Drive,Eastern Standard Time,16037
+Athens,33.945619,-83.417320,17 7th Street,Eastern Standard Time,30606
+Falling Waters,39.581320,-77.880400,7271 Route 1,Eastern Standard Time,25419
+McKnightstown,39.871147,-77.326080,95740 Cambridge Drive,Eastern Standard Time,17343
+Princeton,33.145720,-96.496640,982 Oak Lane,Central Standard Time,75407
+Niagara Falls,43.115355,-79.037690,7953 Main Street West,Eastern Standard Time,14305
+Dallas,32.767268,-96.777626,372 Valley Road,Central Standard Time,75394
+Visalia,36.311000,-119.326370,1 North Street,Pacific Standard Time,93277
+Kerens,32.120271,-96.224740,96 Route 1,Central Standard Time,75144
+Rockport,39.510835,-90.991930,441 Magnolia Drive,Central Standard Time,62370
+Ellwood City,40.857663,-80.275340,865 Ridge Avenue,Eastern Standard Time,16117
+Lynchburg,37.400275,-79.125970,64493 8th Street,Eastern Standard Time,24504
+Stringtown,34.491359,-95.941570,69 Holly Drive,Central Standard Time,74569
+Yabucoa,18.072752,-65.897030,724 Beech Street,Atlantic Standard Time,00767
+Sumatra,46.017965,-106.991990,29309 Circle Drive,Mountain Standard Time,59083
+Elliston,46.481128,-112.433580,64 Route 29,Mountain Standard Time,59728
+Wilsonville,33.241272,-86.506140,40964 South Street,Central Standard Time,35186
+New Orleans,30.032997,-89.882564,71 10th Street,Central Standard Time,70150
+Arlington,38.860247,-77.096270,87 5th Street,Eastern Standard Time,22204
+Trempealeau,44.026843,-91.451300,36 Pennsylvania Avenue,Central Standard Time,54661
+Aripeka,28.429478,-82.663150,6452 Lafayette Avenue,Eastern Standard Time,34679
+Carlisle,34.776306,-91.746350,4478 Linden Street,Central Standard Time,72024
+Upson,46.309371,-90.435400,21510 Washington Street,Central Standard Time,54565
+Elka Park,42.167622,-74.153060,7251 Division Street,Eastern Standard Time,12427
+East Bend,36.198622,-80.526940,635 Laurel Lane,Eastern Standard Time,27018
+El Paso,31.694842,-106.299987,4854 4th Street North,Mountain Standard Time,79984
+Montgomery,32.233377,-86.208528,442 Church Road,Central Standard Time,36120
+Blacksburg,37.179115,-80.351482,259 Union Street,Eastern Standard Time,24061
+Agency,40.995466,-92.304070,313 Highland Avenue,Central Standard Time,52530
+Swanlake,42.305798,-111.962060,2775 West Street,Mountain Standard Time,83281
+Toledo,41.720684,-83.569359,742 Washington Street,Eastern Standard Time,43601
+Haysi,37.213189,-82.297590,46249 College Street,Eastern Standard Time,24256
+Towson,39.399639,-76.584180,6214 Berkshire Drive,Eastern Standard Time,21286
+Boston,42.361485,-71.060364,31 Monroe Street,Eastern Standard Time,02203
+Hartwick,41.809975,-92.328150,46 Hickory Lane,Central Standard Time,52232
+Joyce,48.183150,-123.872972,33713 1st Avenue,Pacific Standard Time,98343
+Hufsmith,29.833990,-95.434241,873 Lafayette Avenue,Central Standard Time,77337
+Raleigh,35.906016,-78.743197,929 Chestnut Street,Eastern Standard Time,27617
+West Newbury,44.062646,-72.139460,68668 Jefferson Street,Eastern Standard Time,05085
+Dallas,32.828128,-96.846120,320 Elm Avenue,Central Standard Time,75235
+Cottonwood,34.723788,-112.010020,7263 Lincoln Avenue,Mountain Standard Time,86326
+Moulton,40.679322,-92.683690,1241 East Street,Central Standard Time,52572
+Clinton,42.418836,-71.684820,5204 Broadway,Eastern Standard Time,01510
+Taylor,41.391279,-75.715350,79741 Winding Way,Eastern Standard Time,18517
+Wellington,39.120155,-93.964950,95082 Ridge Road,Central Standard Time,64097
+Greenville,35.579216,-77.338360,542 Valley Road,Eastern Standard Time,27858
+Fairless Hills,40.175504,-74.846110,9062 Berkshire Drive,Eastern Standard Time,19030
+El Paso,31.694842,-106.299987,64 River Street,Mountain Standard Time,88518
+Helena,36.557263,-98.274510,963 Elm Street,Central Standard Time,73741
+Anchorage,61.204466,-149.746330,97 Main Street,Alaska Standard Time,99504
+Vendor,35.906856,-93.134250,921 Cherry Lane,Central Standard Time,72683
+Sault Sainte Marie,46.460895,-84.324850,73 Green Street,Eastern Standard Time,49783
+Lincoln,37.592920,-94.729782,6 Hilltop Road,Central Standard Time,66721
+Chester,35.668554,-94.275830,222 Elm Avenue,Central Standard Time,72934
+Huntington,38.413384,-82.277401,732 Magnolia Drive,Eastern Standard Time,25727
+Brandon,45.968739,-95.594200,801 Madison Avenue,Central Standard Time,56315
+Dulles,39.002125,-77.442066,39031 Route 1,Eastern Standard Time,20101
+Schuyler,37.792343,-78.694170,508 Market Street,Eastern Standard Time,22969
+Los Altos,37.353741,-122.087170,5987 Madison Street,Pacific Standard Time,94024
+New Braunfels,29.749204,-98.176530,213 Washington Street,Central Standard Time,78132
+Kannapolis,35.499521,-80.644470,9674 Heather Lane,Eastern Standard Time,28081
+Mobile,30.753155,-88.111160,12 Railroad Street,Central Standard Time,36612
