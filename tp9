@@ -1,0 +1,17 @@
+Maitriser le langage PHP : Série TP – 9
+Vous disposez de fichiers JSON /CSV contenant des données fictives dans différentes catégories, telles
+que les étudiants, les produits, les employés, etc.
+L'objectif de cet exercice est de créer un script PHP qui permet d'afficher une liste de données en
+fonction de l'option sélectionnée par l'utilisateur.
+Travail à faire :
+ Téléchargez les fichiers JSON / CSV de données depuis ce lien : lien de fichiers de données
+ Créez une page web avec un menu déroulant (form avec un select) permettant à l'utilisateur
+de choisir une catégorie (par exemple, étudiants, produits, employés).
+ Écrivez un script PHP qui charge les données à partir du fichier JSON correspondant à l'option
+sélectionnée.
+ Affichez les données sous forme de liste (<table>).
+ Votre script PHP devrait être capable de :
+1. Lire le fichier JSON / CSV approprié en fonction de l'option sélectionnée.
+2. Parcourir les données et les afficher sous forme de liste sur la page web.
+3. Gérer les cas où aucun fichier n'est sélectionné ou si le fichier JSON / CSV est
+invalide.
