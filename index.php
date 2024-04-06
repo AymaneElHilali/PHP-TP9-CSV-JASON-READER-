@@ -19,8 +19,16 @@
 // upload file
                 $path = __DIR__ . "/";
                 $path = str_replace('\\', '/', $path);
-                $pathOfileName = $path . basename($_FILES["gg"]["name"]); 
-                move_uploaded_file($_FILES["gg"]["tmp_name"], $pathOfileName);
+                $pathOfileName = $path . basename($_FILES["gg"]["name"]);
+                $fileNamee=basename($_FILES["gg"]["name"]);
+                for ($j=0; $j < strlen($fileNamee) ; $j++){ 
+                    if ($fileNamee[$i]=='.' && $fileNamee[$i+1]=='c' && $fileNamee[$i+2]=='s' && $fileNamee[$i+3]=='v') {
+                        move_uploaded_file($_FILES["gg"]["tmp_name"], $pathOfileName);
+                    }
+                    elseif ($fileNamee[$i]=='.' && $fileNamee[$i+1]=='j' && $fileNamee[$i+2]=='s' && $fileNamee[$i+3]=='o' && $fileNamee[$i+4]=='n') {
+                        move_uploaded_file($_FILES["gg"]["tmp_name"], $pathOfileName);
+                    }
+                }
             }
             else{
                 $_SESSION["fileLiTe3zele"]="";
