@@ -22,10 +22,10 @@
                 $pathOfileName = $path . basename($_FILES["gg"]["name"]);
                 $fileNamee=basename($_FILES["gg"]["name"]);
                 for ($j=0; $j < strlen($fileNamee) ; $j++){ 
-                    if ($fileNamee[$i]=='.' && $fileNamee[$i+1]=='c' && $fileNamee[$i+2]=='s' && $fileNamee[$i+3]=='v') {
+                    if ($fileNamee[$j]=='.' && $fileNamee[$j+1]=='c' && $fileNamee[$j+2]=='s' && $fileNamee[$j+3]=='v') {
                         move_uploaded_file($_FILES["gg"]["tmp_name"], $pathOfileName);
                     }
-                    elseif ($fileNamee[$i]=='.' && $fileNamee[$i+1]=='j' && $fileNamee[$i+2]=='s' && $fileNamee[$i+3]=='o' && $fileNamee[$i+4]=='n') {
+                    elseif ($fileNamee[$j]=='.' && $fileNamee[$j+1]=='j' && $fileNamee[$j+2]=='s' && $fileNamee[$j+3]=='o' && $fileNamee[$j+4]=='n') {
                         move_uploaded_file($_FILES["gg"]["tmp_name"], $pathOfileName);
                     }
                 }
